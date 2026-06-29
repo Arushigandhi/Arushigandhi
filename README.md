@@ -16,7 +16,7 @@ Timelime:
 - Started a tech club in college
 - Started a tech blog + podcast + newsletter brand with a few friends
 - Started Dorm Room Startup Club across colleges for student founders
-- Founded my first company in pre-final year - built custom CRMs for VC/PEs 
+- Founded my first company in pre-final year - built AI for VC/PEs 
 - Graduated
 - Explored Antler
 - Joined Entrepreneurs First with Abhishek
