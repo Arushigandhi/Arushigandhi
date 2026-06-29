@@ -2,8 +2,6 @@
 
 I'm Arushi Gandhi, co-founder and CEO of Ressl AI.
 
-Building Ressl AI - AI Coding Agents for CRM Implementations, starting with Salesforce.
-
 I was part of the YC W26 batch. <img src="https://cdn.simpleicons.org/ycombinator/FF5A1F" alt="Y Combinator" width="16" height="16" />
 
 [![Linkedin: Arushi Gandhi](https://img.shields.io/badge/-Arushi-pink?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arushi-gandhi/)](https://www.linkedin.com/in/arushi-gandhi/)
