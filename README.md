@@ -13,4 +13,4 @@ I'm a founder with a background in engineering and early-stage startups. I co-fo
 
 ### Connect
 
-[LinkedIn](https://www.linkedin.com/in/arushi-gandhi/)
+[Portfolio](https://arushigandhi.com) · [LinkedIn](https://www.linkedin.com/in/arushi-gandhi/) · [X](https://x.com/arushi_ressl) · [arushi.gandhi@gmail.com](mailto:arushi.gandhi@gmail.com)
