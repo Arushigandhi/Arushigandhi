@@ -6,7 +6,9 @@ I'm a founder with a background in engineering and early-stage startups. I co-fo
 
 ### Background
 
-- Worked on Microsoft Teams as an intern and across four early-stage startups as a technical generalist.
+- Entrepreneur in Residence at Antler in 2024.
+- Interned on the Microsoft Teams team.
+- Worked as a technical generalist at Bugbase, Fiedra, Freestand, and Incepthink.
 - Received the Google Generation Scholarship and founded GirlScript Manipal.
 - Graduated from Manipal Institute of Technology in 2024 and TSRS Moulsari (high school) in 2020.
 
