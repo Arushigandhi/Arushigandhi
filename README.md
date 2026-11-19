@@ -11,7 +11,7 @@ I split my time between San Francisco and Bangalore.
 - Joined Entrepreneurs First in 2025.
 - Entrepreneur in Residence at Antler in 2024.
 - Interned on the Microsoft Teams team.
-- Worked as a technical generalist at Bugbase, Fiedra, Freestand, and Incepthink.
+- Worked as a technical generalist across early-stage startups like Bugbase, Fiedra, Freestand, and Incepthink.
 - Received the Google Generation Scholarship and founded GirlScript Manipal.
 - Graduated from Manipal Institute of Technology in 2024 and TSRS Moulsari (high school) in 2020.
 
