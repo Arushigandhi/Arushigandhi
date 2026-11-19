@@ -4,6 +4,8 @@
 
 I'm a founder with a background in engineering and early-stage startups. I joined Entrepreneurs First in 2025 and co-founded Newmeasure AI (fka Ressl) that year.
 
+I split my time between San Francisco and Bangalore.
+
 ### Background
 
 - Entrepreneur in Residence at Antler in 2024.
