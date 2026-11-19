@@ -6,7 +6,6 @@ I'm a founder with a background in engineering and early-stage startups. I co-fo
 
 ### Background
 
-- Founded my first company while studying engineering, building AI for venture capital and private equity firms.
 - Worked on Microsoft Teams as an intern and across four early-stage startups as a technical generalist.
 - Received the Google Generation Scholarship and founded GirlScript Manipal.
 - Graduated from Manipal Institute of Technology in 2024 and TSRS Moulsari (high school) in 2020.
