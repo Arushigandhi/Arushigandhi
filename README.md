@@ -8,8 +8,7 @@ I split my time between San Francisco and Bangalore.
 
 ### Background
 
-- Joined Entrepreneurs First in 2025.
-- Entrepreneur in Residence at Antler in 2024.
+- Entrepreneur in Residence at Antler in 2024 and at Entrepreneurs First in 2025.
 - Interned on the Microsoft Teams team.
 - Worked as a technical generalist across early-stage startups like Bugbase, Fiedra, Freestand, and Incepthink.
 - Received the Google Generation Scholarship and founded GirlScript Manipal.
