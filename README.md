@@ -2,7 +2,7 @@
 
 **Co-founder & CEO, Newmeasure AI (fka Ressl) · Y Combinator W26**
 
-I'm a founder with a background in engineering and early-stage startups. I co-founded Newmeasure AI (fka Ressl) in 2025 after joining Entrepreneurs First in 2024.
+I'm a founder with a background in engineering and early-stage startups. I joined Entrepreneurs First in 2025 and co-founded Newmeasure AI (fka Ressl) that year.
 
 ### Background
 
